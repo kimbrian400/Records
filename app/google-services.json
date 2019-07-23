@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956889151701",
+    "firebase_url": "https://bookmanager-e0d26.firebaseio.com",
+    "project_id": "bookmanager-e0d26",
+    "storage_bucket": "bookmanager-e0d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956889151701:android:2fe04d300edfa05b",
+        "android_client_info": {
+          "package_name": "com.brendarono.bookmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956889151701-629o60v8l1j1drip8gn1fhqpelei4p0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brendarono.bookmanager",
+            "certificate_hash": "77d1565e214de64e42de1ffd90353a5e61f190f1"
+          }
+        },
+        {
+          "client_id": "956889151701-t2tpvqf3rnrniqmt3h4j85um721h38ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHXryK3RPBVPr8x2qwrcmGMsMKbfJsV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956889151701-t2tpvqf3rnrniqmt3h4j85um721h38ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

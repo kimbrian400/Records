@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="card_view_padding">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_average">12dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="item_offset">4dp</dimen>
+    <dimen name="padding_empty_bottom">16dp</dimen>
+
+    <dimen name="text_high">20sp</dimen>
+    <dimen name="text_mid">15sp</dimen>
+    <dimen name="margin_low">10dp</dimen>
+    <dimen name="margin_mid">20dp</dimen>
+    <dimen name="text_low">12sp</dimen>
+    <dimen name="margin_high">30dp</dimen>
+
+</resources>
